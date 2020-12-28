@@ -1,5 +1,5 @@
 {
-  "name": "kassymbekoff/ErrorMessageHelper",
+  "name": "kassymbekoff/error-msg-helper",
   "description": "Simple library for getting error message from Yii2 model",
   "minimum-stability": "stable",
   "keywords": ["yii2","models","error","messages"],
