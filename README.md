@@ -2,10 +2,10 @@
 
 Simple PHP library for getting error message from Yii2 model
 
-Install
+**Install**
 
-$ composer require kassymbekoff/ErrorMessageHelper
+`$ composer require kassymbekoff/ErrorMessageHelper`
 
-How to use it
+**How to use it**
 
-$message = ErrorMsgHelper::getMessage($model);
+`$message = ErrorMsgHelper::getMessage($model);`
